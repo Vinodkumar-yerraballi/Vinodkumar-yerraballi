@@ -8,15 +8,16 @@
 I'm aspirant Data science 💻, Travelling 🛣, and Nature lover 🏞!
 </h2> 
 
-<p align="center" , font-weight ="bold" > A passionate data science enthusiast from India </p>
+<h3 align="center" , font-weight ="bold" > A passionate data science enthusiast from India <h3>
 
                                  
 
-![](https://komarev.com/ghpvc/?username=Vinodkumar-yerraballi&color=blueviolet)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinodkumar-yerraballi&label=Profile%20views&color=0e75b6&style=flat" alt="Vinodkumar-yerraballi" /> </p>
+  
 - 👋 Hi, I’m @Vinodkumar-yerraballi
-- 👀 I’m interested in ... data science 
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... data scientist 
+- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning ... python , 
+- 💞️ I’m looking to collaborate on ... data scientist, 
 - 📫 How to reach me ... Vinodkumar9676150@gmail.com
 </br>
 
@@ -38,12 +39,12 @@ I'm aspirant Data science 💻, Travelling 🛣, and Nature lover 🏞!
 
 ## 🔭 Completed project
 
-- My old projects
-- House price prediction
-- Email spam classification
-- Sentimental analysis
-- Car price prediction 
-- Flight price prediction
+- laguage detection[](https://github.com/Vinodkumar-yerraballi/language_detection)
+- House price prediction[](https://github.com/Vinodkumar-yerraballi/House_price_predicton)
+- Email spam classification[](https://github.com/Vinodkumar-yerraballi/Email_classifier)
+- Sentimental analysis[](https://github.com/Vinodkumar-yerraballi/Sentiment_analysis)
+- Car price prediction[](https://github.com/Vinodkumar-yerraballi/Car_Price_Prediction)
+- Flight price prediction[](https://github.com/Vinodkumar-yerraballi/flight_price_prediction)
 
 
 
@@ -67,8 +68,8 @@ I'm aspirant Data science 💻, Travelling 🛣, and Nature lover 🏞!
 
 <br>
 <p>
-</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/592/0*zKRz1UgqpOZ4bvuA" alt="nltk" width="40" height="40"/><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/440px-TensorFlow_logo.svg.png" alt="tensorflow" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thu…o.svg/1024px-Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" height="40"/> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="	https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.svg" alt="Keras" width="40" height="40"/> </a>
+</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/592/0*zKRz1UgqpOZ4bvuA" alt="nltk" width="40" height="40"/><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/440px-TensorFlow_logo.svg.png" alt="tensorflow" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thu…o.svg/1024px-Created_with_Matplotlib-logo.png" alt="Matplotlib" width="40" height="40"/> </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="	https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.png" alt="Keras" width="40" height="40"/> </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/220px-Plotly-logo.png" alt="Plotly" width="40" height="40"/> </a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Scipylogo.png/200px-Scipylogo.png" alt="Plotly" width="40" height="40"/> </a>
 </p>
@@ -83,7 +84,7 @@ I'm aspirant Data science 💻, Travelling 🛣, and Nature lover 🏞!
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Vinodkumar-yerraballi.Vinodkumar-yerraballi)]
 view raw
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinodkumar-yerraballi&" alt="Vinodkumar-yerraballi" /></p>
 
 
 
