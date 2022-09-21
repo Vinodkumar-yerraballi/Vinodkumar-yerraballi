@@ -13,14 +13,41 @@
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... data scientist 
 - 📫 How to reach me ... Vinodkumar9676150@gmail.com
-- Linkedin link ... https://www.linkedin.com/in/vinod-kumar-yerraballi-44520214b/
-# Connect with me:
+
+
+### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/Vinodkumar-yerraballi/Vinodkumar-yerraballi/main/linkedin.png" alt="Vinodkumar | LinkedIn" width="21px"/></a>
 
-<!---
-Vinodkumar-yerraballi/Vinodkumar-yerraballi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+
+## 🔭 I'm currently working on
+
+- My old projects
+- House price prediction
+- Email spam classification
+- Sentimental analysis
+- Car price prediction 
+- Flight price prediction
+
+
+
+
+## 🌱 I'm currently learning
+
+- 📱 Deep Learning
+- Natural Language process
+- Computer vision
+
+
+## 💼 Technical Skills
+![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=pythont&color=61DAFB)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&color=E34F26)
+
+
+<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinodkumar-yerraballi&layout=compact)](https://github.com/Vinodkumar-yerraballi)
