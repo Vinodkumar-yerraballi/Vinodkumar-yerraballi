@@ -18,11 +18,16 @@
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/Vinodkumar-yerraballi/Vinodkumar-yerraballi/main/linkedin.png" alt="Vinodkumar | LinkedIn" width="21px"/></a>
 
+
+
+
 </br>
+
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
-## 🔭 I'm currently working on
+## 🔭 Completed project
 
 - My old projects
 - House price prediction
@@ -44,10 +49,42 @@
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=pythont&color=61DAFB)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&color=E34F26)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&color=E34F26)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&color=E34F26)
 
 
 <br>
+
+
+
+</br>
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+
+
+<br>
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Numpy&color=F24E1E)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Pandas&color=CB3837)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=matplotlib&color=430098)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Seaborn&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Scikit-learn&color=F05032)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Keras&color=181717)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Tensorflow&color=Blue)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=plotly&color=Green)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Streamlit&color=Yellow)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=NLP&color=F24E1E)
+
+
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vinodkumar-yerraballi)](https://github.com/Vinodkumar-yerraballi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinodkumar-yerraballi&layout=compact)](https://github.com/Vinodkumar-yerraballi)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Vinodkumar-yerraballi.Vinodkumar-yerraballi)]
+view raw
+
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinodkumar-yerraballi&layout=compact)](https://github.com/Vinodkumar-yerraballi)
