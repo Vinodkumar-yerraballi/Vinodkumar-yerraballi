@@ -23,7 +23,8 @@ I'm aspirant Data science 💻, Travelling 🛣, and Nature lover 🏞!
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/vinod-kumar-yerraballi-44520214b/"><img align="left" src="https://raw.githubusercontent.com/Vinodkumar-yerraballi/Vinodkumar-yerraballi/main/linkedin.png" alt="Vinodkumar | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavanya_2222" height="30" width="40" /></a>
+<a href="https://twitter.com/@Y_Vinod_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavanya_2222" height="30" width="40" /></a>
+<a href="https://www.instagram.com/devilsvinod"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 </br>
 
