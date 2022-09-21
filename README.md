@@ -62,16 +62,8 @@
 
 
 <br>
-![](https://img.shields.io/badge/Tools-Numpy-informational?style=flat&logo=Numpy&color=F24E1E)
-![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=Pandas&color=CB3837)
-![](https://img.shields.io/badge/Tools-matplotlib-informational?style=flat&logo=matplotlib&color=430098)
-![](https://img.shields.io/badge/Tools-Seaborn-informational?style=flat&logo=Seaborn&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Scikit-learn-informational?style=flat&logo=Scikit-learn&color=F05032)
-![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&color=181717)
-![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=Tensorflow&color=Blue)
-![](https://img.shields.io/badge/Tools-plotly-informational?style=flat&logo=plotly&color=Green)
-![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=Streamlit&color=Yellow)
-![](https://img.shields.io/badge/Tools-NLP-informational?style=flat&logo=NLP&color=F24E1E)
+<p>
+</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 
 ## 📈 GitHub Stats 
