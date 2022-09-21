@@ -1,4 +1,4 @@
-
+![This is an image](https://unsplash.com/photos/pRlbr85Jvqw)
 
 
 #  Hi budies  :wave:   I'm Vinod kumar
@@ -8,33 +8,6 @@
                                  
 
 ![](https://komarev.com/ghpvc/?username=Vinodkumar-yerraballi&color=blueviolet)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - 👋 Hi, I’m @Vinodkumar-yerraballi
 - 👀 I’m interested in ... data science 
 - 🌱 I’m currently learning ... python
