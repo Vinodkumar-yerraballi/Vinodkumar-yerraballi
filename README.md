@@ -15,7 +15,7 @@
 - 📫 How to reach me ... Vinodkumar9676150@gmail.com
 - Linkedin link ... https://www.linkedin.com/in/vinod-kumar-yerraballi-44520214b/
 # Connect with me:
-[2]: https://www.linkedin.com/in/[your_contact_info](https://www.linkedin.com/in/vinod-kumar-yerraballi-44520214b/)
+![2]: https://www.linkedin.com/in/vinod-kumar-yerraballi-44520214b/
 
 
 <!---
