@@ -62,16 +62,16 @@
 
 
 <br>
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Numpy&color=F24E1E)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Pandas&color=CB3837)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=matplotlib&color=430098)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Seaborn&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Scikit-learn&color=F05032)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Keras&color=181717)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Tensorflow&color=Blue)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=plotly&color=Green)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Streamlit&color=Yellow)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=NLP&color=F24E1E)
+![](https://img.shields.io/badge/Tools-Numpy-informational?style=flat&logo=Numpy&color=F24E1E)
+![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=Pandas&color=CB3837)
+![](https://img.shields.io/badge/Tools-matplotlib-informational?style=flat&logo=matplotlib&color=430098)
+![](https://img.shields.io/badge/Tools-Seaborn-informational?style=flat&logo=Seaborn&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Scikit-learn-informational?style=flat&logo=Scikit-learn&color=F05032)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&color=181717)
+![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=Tensorflow&color=Blue)
+![](https://img.shields.io/badge/Tools-plotly-informational?style=flat&logo=plotly&color=Green)
+![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=Streamlit&color=Yellow)
+![](https://img.shields.io/badge/Tools-NLP-informational?style=flat&logo=NLP&color=F24E1E)
 
 
 ## 📈 GitHub Stats 
@@ -87,4 +87,3 @@ view raw
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinodkumar-yerraballi&layout=compact)](https://github.com/Vinodkumar-yerraballi)
