@@ -5,7 +5,7 @@
 
 #  Hi There  :wave:   I'm Vinod kumar
 <h2 align="center">
-I'm aspirant Data science 💻, Travelling 📸, and Nature lover 🎨!
+I'm aspirant Data science 💻, Travelling 🛣, and Nature lover 🏞!
 </h2> 
 
 <p align="center" , font-weight ="bold" > A passionate data science enthusiast from India </p>
