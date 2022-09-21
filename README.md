@@ -3,7 +3,7 @@
 
 #  Hi budies  :wave:   I'm Vinod kumar
 
-## A passionate data science enthusiast from India
+##                                   A passionate data science enthusiast from India
 
 ![](https://komarev.com/ghpvc/?username=Vinodkumar-yerraballi&color=blueviolet)
 
