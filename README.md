@@ -1,7 +1,11 @@
-![wp2777161-swiss-landscape-wallpapers](https://user-images.githubusercontent.com/98636972/191479401-c7ec082a-c271-4c58-a72f-953c0cf9c505.jpg)
+## ![wp2777161-swiss-landscape-wallpapers](https://user-images.githubusercontent.com/98636972/191479401-c7ec082a-c271-4c58-a72f-953c0cf9c505.jpg)
+
+<p align="center">
+  <a  target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98636972/191479401-c7ec082a-c271-4c58-a72f-953c0cf9c505.jpg" alt="my banner"></a>
+</p>
 
 
-#  Hi budies  :wave:   I'm Vinod kumar
+#  Hi There  :wave:   I'm Vinod kumar
 
 <p align="center" , font-weight ="bold" > A passionate data science enthusiast from India </p>
 
@@ -13,11 +17,12 @@
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... data scientist 
 - 📫 How to reach me ... Vinodkumar9676150@gmail.com
-
+</br>
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/Vinodkumar-yerraballi/Vinodkumar-yerraballi/main/linkedin.png" alt="Vinodkumar | LinkedIn" width="21px"/></a>
 
+</br>
 
 
 
@@ -44,6 +49,7 @@
 - 📱 Deep Learning
 - Natural Language process
 - Computer vision
+- Artificial intelligence
 
 
 ## 💼 Technical Skills
@@ -60,7 +66,10 @@
 
 <br>
 <p>
-</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Natural_Language_Toolkit.svg" alt="nltk" width="40" height="40"/><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/440px-TensorFlow_logo.svg.png" alt="tensorflow" width="40" height="40"/> </a>
+</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/592/0*zKRz1UgqpOZ4bvuA" alt="nltk" width="40" height="40"/><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/440px-TensorFlow_logo.svg.png" alt="tensorflow" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="	https://upload.wikimedia.org/wikipedia/commons/thu…ode.png/300px-Mpl_screenshot_figures_and_code.png" alt="Matplotlib" width="40" height="40"/> </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="	https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/> </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/220px-Plotly-logo.png" alt="Plotly" width="40" height="40"/> </a>
+  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Scipylogo.png/200px-Scipylogo.png" alt="Plotly" width="40" height="40"/> </a>
 </p>
 
 
