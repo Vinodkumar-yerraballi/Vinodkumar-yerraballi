@@ -15,7 +15,7 @@
 - 📫 How to reach me ... Vinodkumar9676150@gmail.com
 - Linkedin link ... https://www.linkedin.com/in/vinod-kumar-yerraballi-44520214b/
 # Connect with me:
-<a href="https://www.linkedin.com/in/vinod-kumar-yerraballi-44520214b/"><img align="left"src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/vinod-kumar-yerraballi-44520214b/"><img align="left"src="https://raw.githubusercontent.com/Vinodkumar-yerraballi/Vinodkumar-yerraballi/main/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 <!---
 Vinodkumar-yerraballi/Vinodkumar-yerraballi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
