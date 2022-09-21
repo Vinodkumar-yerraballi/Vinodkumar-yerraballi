@@ -39,12 +39,12 @@ I'm aspirant Data science 💻, Travelling 🛣, and Nature lover 🏞!
 
 ## 🔭 Completed project
 
-- laguage detection[](https://github.com/Vinodkumar-yerraballi/language_detection)
-- House price prediction[](https://github.com/Vinodkumar-yerraballi/House_price_predicton)
-- Email spam classification[](https://github.com/Vinodkumar-yerraballi/Email_classifier)
-- Sentimental analysis[](https://github.com/Vinodkumar-yerraballi/Sentiment_analysis)
-- Car price prediction[](https://github.com/Vinodkumar-yerraballi/Car_Price_Prediction)
-- Flight price prediction[](https://github.com/Vinodkumar-yerraballi/flight_price_prediction)
+- language detection[language_detection](https://github.com/Vinodkumar-yerraballi/language_detection)
+- House price prediction[house_price_prediction](https://github.com/Vinodkumar-yerraballi/House_price_predicton)
+- Email spam classification[Email_classification](https://github.com/Vinodkumar-yerraballi/Email_classifier)
+- Sentimental analysis[Sentimental_analysis](https://github.com/Vinodkumar-yerraballi/Sentiment_analysis)
+- Car price prediction[Car_price_prediction](https://github.com/Vinodkumar-yerraballi/Car_Price_Prediction)
+- Flight price prediction[Flight_price_prediction](https://github.com/Vinodkumar-yerraballi/flight_price_prediction)
 
 
 
@@ -68,10 +68,11 @@ I'm aspirant Data science 💻, Travelling 🛣, and Nature lover 🏞!
 
 <br>
 <p>
-</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/592/0*zKRz1UgqpOZ4bvuA" alt="nltk" width="40" height="40"/><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/440px-TensorFlow_logo.svg.png" alt="tensorflow" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thu…o.svg/1024px-Created_with_Matplotlib-logo.png" alt="Matplotlib" width="40" height="40"/> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="	https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.png" alt="Keras" width="40" height="40"/> </a>
+</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/592/0*zKRz1UgqpOZ4bvuA" alt="nltk" width="40" height="40"/><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/440px-TensorFlow_logo.svg.png" alt="tensorflow" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/109927a15915074…c69622e6f72672f5f7374617469632f6c6f676f322e737667" alt="Matplotlib" width="40" height="40"/> </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/> </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/220px-Plotly-logo.png" alt="Plotly" width="40" height="40"/> </a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Scipylogo.png/200px-Scipylogo.png" alt="Plotly" width="40" height="40"/> </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="	https://upload.wikimedia.org/wikipedia/commons/thu…0px-Streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="40" height="40"/> </a>
 </p>
 
 
