@@ -1,7 +1,7 @@
 
 
 
-#  Hi budies | :wave: |  I'm Vinod kumar
+#  Hi budies  :wave:   I'm Vinod kumar
 
 
 
