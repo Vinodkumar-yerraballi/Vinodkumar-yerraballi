@@ -3,7 +3,7 @@
 
 #  Hi budies  :wave:   I'm Vinod kumar
 
-<p align="center">// # A passionate data science enthusiast from India</p>
+<p align="center" , size =20, color='red'> A passionate data science enthusiast from India</p>
 
                                  
 
