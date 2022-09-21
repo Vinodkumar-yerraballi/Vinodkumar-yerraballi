@@ -15,7 +15,7 @@
 - 📫 How to reach me ... Vinodkumar9676150@gmail.com
 - Linkedin link ... https://www.linkedin.com/in/vinod-kumar-yerraballi-44520214b/
 # Connect with me:
-<a href="https://www.linkedin.com/in/vinod-kumar-yerraballi-44520214b/"><img align="left"src="https://raw.githubusercontent.com/Vinodkumar-yerraballi/Vinodkumar-yerraballi/main/linkedin.png" alt="vinodkumar | LinkedIn"width="21px"/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/Vinodkumar-yerraballi/Vinodkumar-yerraballi/main/linkedin.png" alt="Vinodkumar | LinkedIn" width="21px"/></a>
 
 <!---
 Vinodkumar-yerraballi/Vinodkumar-yerraballi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/Vinodkumar-yerraballi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinodkumar-yerraballi&layout=compact)](https://github.com/Vinodkumar-yerraballi)
