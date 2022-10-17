@@ -74,7 +74,7 @@ I'm aspirant Data science 💻, Travelling 🛣, and Nature lover 🏞!
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/220px-Plotly-logo.png" alt="Plotly" width="40" height="40"/> </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" alt="streamlit" width="40" height="40"/> </a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://docs.scipy.org/doc/scipy/_static/logo.svg" alt="scipy" width="40" height="40"/> </a><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thu…/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="jupyter notebook" width="40" height="40"/> </a>
-  </a> <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/730/45/png-transparent-golang-gopher-hd-logo-thumbnail.png" alt="Go" width="40" height="40"/> </a> 
+  </a> <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo-thumbnail.png" alt="Go" width="40" height="40"/> </a> 
 
 </p>
 
