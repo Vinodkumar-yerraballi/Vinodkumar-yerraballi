@@ -74,7 +74,7 @@ I'm aspirant Data science 💻, Travelling 🛣, and Nature lover 🏞!
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/220px-Plotly-logo.png" alt="Plotly" width="40" height="40"/> </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" alt="streamlit" width="40" height="40"/> </a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://docs.scipy.org/doc/scipy/_static/logo.svg" alt="scipy" width="40" height="40"/> </a><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thu…/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="jupyter notebook" width="40" height="40"/> </a>
-  </a> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="		https://contentstatic.techgig.com/thumb/msid-82278…es-of-using-Golang-programming-language.jpg?35743" alt="Go" width="40" height="40"/> </a> 
+  </a> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.mitrais.com%2Fwp-content%2Fuploads%2F2018%2F07%2Fgolang-lets-go-1.png&imgrefurl=https%3A%2F%2Fwww.mitrais.com%2Fnews-updates%2Fthe-benefits-of-using-the-go-programming-language-aka-golang%2F&tbnid=ZMapaufWGYUy_M&vet=12ahUKEwi1t9GP1-f6AhU8KbcAHQdmD4kQMygPegUIARDaAQ..i&docid=b-nsD1n82NkDwM&w=1024&h=661&q=go%20language&ved=2ahUKEwi1t9GP1-f6AhU8KbcAHQdmD4kQMygPegUIARDaAQ" alt="Go" width="40" height="40"/> </a> 
 
 </p>
 
