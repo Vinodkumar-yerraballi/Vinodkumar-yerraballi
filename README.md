@@ -1,9 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Data Science <br>
-👯 I’m looking to collaborate on project <br>
+👯 I’m looking to collaborate on project AI, Machine Learning, Deep Learning <br>
 🤝 I’m looking for help with<br>
 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, NLP<br>
-💬 Ask me about<br>
+💬 Ask me about Data scienece <br>
 ⚡ Fun fact
 
 
