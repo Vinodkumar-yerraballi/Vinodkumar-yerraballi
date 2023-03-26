@@ -1,37 +1,32 @@
-<p align="center">
-  <a  target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98636972/191479401-c7ec082a-c271-4c58-a72f-953c0cf9c505.jpg" alt="my banner"></a>
-</p>
+# 💫 About Me:
+🔭 I’m currently working on Data Science <br>
+👯 I’m looking to collaborate on project <br>
+🤝 I’m looking for help with<br>
+🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, NLP<br>
+💬 Ask me about<br>
+⚡ Fun fact
 
 
-#  Hi There  :wave:   I'm Vinod kumar
-<h2 align="center">
-I'm aspirant Data science 💻, Travelling 🛣, and Nature lover 🏞!
-</h2> 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devilsvinod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinod-kumar-yerraballi-44520214b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Y_Vinod_kumar) 
 
-<h3 align="center" , font-weight ="bold" > A passionate data science enthusiast from India <h3>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vinodkumar-yerraballi&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vinodkumar-yerraballi&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinodkumar-yerraballi&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-                                 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vinodkumar-yerraballi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinodkumar-yerraballi&label=Profile%20views&color=0e75b6&style=flat" alt="Vinodkumar-yerraballi" /> </p>
-  
-- 👋 Hi, I’m @Vinodkumar-yerraballi
-- 🌱 I’m currently learning **Data science**
-- 🌱 I’m currently learning ... python , 
-- 💞️ I’m looking to collaborate on ... data scientist, 
-- 📫 How to reach me ... Vinodkumar9676150@gmail.com
-</br>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@Y_Vinod_kumar)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 🤝 Connect with me:
+---
+[![](https://visitcount.itsvg.in/api?id=Vinodkumar-yerraballi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://www.linkedin.com/in/vinod-kumar-yerraballi-44520214b/"><img align="left" src="https://raw.githubusercontent.com/Vinodkumar-yerraballi/Vinodkumar-yerraballi/main/linkedin.png" alt="Vinodkumar | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/@Y_Vinod_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavanya_2222" height="30" width="40" /></a>
-<a href="https://www.instagram.com/devilsvinod"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-
-</br>
-
-
-
-</br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -47,47 +42,6 @@ I'm aspirant Data science 💻, Travelling 🛣, and Nature lover 🏞!
 - Flight price prediction[Flight_price_prediction](https://github.com/Vinodkumar-yerraballi/flight_price_prediction)
 
 
-
-
-## 🌱 I'm currently learning
-
-- 📱 Deep Learning
-- Natural Language process
-- Computer vision
-- Artificial intelligence
-
-
-## 💼 Technical Skills
-![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=pythont&color=61DAFB)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&color=E34F26)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&color=E34F26)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&color=E34F26)
-![](https://img.shields.io/badge/Code-GO-informational?style=flat&logo=Go&color=blue)
-
-
-
-
-<br>
-<p>
-</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/592/0*zKRz1UgqpOZ4bvuA" alt="nltk" width="40" height="40"/><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/440px-TensorFlow_logo.svg.png" alt="tensorflow" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/logo2.svg" alt="Matplotlib" width="40" height="40"/> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/> </a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/220px-Plotly-logo.png" alt="Plotly" width="40" height="40"/> </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" alt="streamlit" width="40" height="40"/> </a>
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://docs.scipy.org/doc/scipy/_static/logo.svg" alt="scipy" width="40" height="40"/> </a><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thu…/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="jupyter notebook" width="40" height="40"/> </a>
-  </a> <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo-thumbnail.png" alt="Go" width="40" height="40"/> </a> 
-
-</p>
-
-## 📈 GitHub Stats 
-
-[![Vinod kumar's github stats](https://github-readme-stats.vercel.app/api?username=Vinodkumar-yerraballi)](https://github.com/Vinodkumar-yerraballi)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinodkumar-yerraballi&layout=compact)](https://github.com/Vinodkumar-yerraballi)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Vinodkumar-yerraballi.Vinodkumar-yerraballi)]
-view raw
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinodkumar-yerraballi&" alt="Vinodkumar-yerraballi" /></p>
 
 
 
