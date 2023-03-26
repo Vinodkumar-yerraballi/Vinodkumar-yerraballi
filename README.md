@@ -17,11 +17,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vinodkumar-yerraballi&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinodkumar-yerraballi&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vinodkumar-yerraballi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@Y_Vinod_kumar)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vinodkumar-yerraballi&icon=0&color=0)](https://visitcount.itsvg.in)
