@@ -3,7 +3,7 @@
 👯 I’m looking to collaborate on project AI, Machine Learning, Deep Learning <br>
 🤝 I’m looking for help with<br>
 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, NLP<br>
-💬 Ask me about Data scienece <br>
+💬 Ask me about Data science <br>
 ⚡ Fun fact
 
 
